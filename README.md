@@ -7,9 +7,6 @@ In the project directory, you can run:
 1. ``` npm install ```
 2. ```npm start```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
@@ -24,11 +21,6 @@ You will also see any lint errors in the console.
 8. Load data from local JSON file (mock data)
 9. No external libraries
 10. Custom Utils functions (Email validation, Format Phone (111) 111–1111), & localstorage, ... etc)
-
-## Tutorial is available on [medium article](https://medium.com/@jebasuthan/react-user-registration-and-login-using-redux-81ec739e93d1)
-
-
-## <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉 </g-emoji> [Demo Link](https://jebasuthan.github.io/React-form-registration/)  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
 
 ## Login Screen
 <img width="1437" alt="Screenshot 2020-07-19 at 10 38 49 AM" src="https://user-images.githubusercontent.com/3702438/87867620-98014780-c9ac-11ea-83f3-35b0b4b5029a.png">
